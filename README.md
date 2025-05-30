@@ -51,14 +51,7 @@ pip install requests beautifulsoup4 pandas
 ## Output
 The script will print the scraped project details to your console in a tabular format (Pandas DataFrame).
 
-### Example Console Output:
-```
---- Scraped Project Details ---
-  Rera Regd. No       Project Name             Promoter Name Address of the Promoter      GST No.
-0  RP/01/2025/01362  BASANTI ENCLAVE  NEELACHAL INFRA DEVELOPERS PVT. LTD          Angul  B21AADCN5439J2ZH
-1  RP/01/2025/01363         UDYAYEEN  SHAMCHAND BUILDERS PRIVATE LIMITED        Khordha  B21AADCN5439J2ZH
-...
-```
+
 
 ## Deployment to GitHub
 To deploy this project to GitHub, follow these steps:
